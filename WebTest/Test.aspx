@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Panel ID="Panel1" runat="server">
-                <asp:Button ID="Button1" runat="server" Text="Insert Data" OnClick="Button1_Click" BackColor="#0066FF" />
+                <asp:Button ID="Button1" runat="server" Text="Insert Data Test" OnClick="Button1_Click" BackColor="#0066FF" />
             </asp:Panel>
             <br />
             <asp:Panel ID="Panel2" runat="server">
